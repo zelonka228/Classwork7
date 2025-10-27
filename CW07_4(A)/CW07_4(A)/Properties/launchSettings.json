@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CW07_4(A)": {
+      "commandName": "Project",
+      "commandLineArgs": "load"
+    }
+  }
+}

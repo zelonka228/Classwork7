@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CW07_3(B)": {
+      "commandName": "Project",
+      "commandLineArgs": "read"
+    }
+  }
+}
